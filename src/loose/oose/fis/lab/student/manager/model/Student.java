@@ -70,6 +70,6 @@ public class Student {
     }
 
     public void setMeanGrade(double meanGrade) {
-        this.meanGrade = meanGrade;
+        this.meanGrade = meanGrade + 1;
     }
 }
